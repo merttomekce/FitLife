@@ -1,0 +1,2 @@
+# FitLife
+The FitLife application is designed to provide users with a platform to track their daily calorie intake, set weight goals (e.g., weight loss or gain), and view meal plans. Users can register an account, log in securely, search for various food items, and view detailed nutritional information including calories, carbohydrates, proteins, and fats.
